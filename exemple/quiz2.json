@@ -125,7 +125,7 @@
 		}]
 	},
 {
-		"question": "La capitale du Portugale ?",
+		"question": "La capitale du Portugal ?",
 		"description": null,
 		"answers": [{
 			"answer": "Porto ",
@@ -148,26 +148,26 @@
 		"description": null,
 		"answers": [{
 			"answer": "Sydney ",
-			"alert": "<strong>Faux !</strong> C'est Cambera",
+			"alert": "<strong>Faux !</strong> C'est Camberra",
 			"true": 0
 		},
 		{
-			"answer": "Cambera",
+			"answer": "Camberra",
 			"alert": "<strong>Correct !</strong>",
 			"true": 1
 		},
 		{
 			"answer": "Melbourne ",
-			"alert": "<strong>Faux !</strong> C'est Cambera",
+			"alert": "<strong>Faux !</strong> C'est Camberra",
 			"true": 0
 		}]
 	},
 {
-		"question": "La capitale du Blegique ?",
+		"question": "La capitale du Belgique ?",
 		"description": null,
 		"answers": [{
 			"answer": "Bruges ",
-			"alert": "<strong>Faux !</strong> C'est Bruxelle ",
+			"alert": "<strong>Faux !</strong> C'est Bruxelles ",
 			"true": 0
 		},
 		{
@@ -177,7 +177,7 @@
 		},
 		{
 			"answer": "Anvers",
-			"alert": "<strong>Faux !</strong>C'est Bruxelle",
+			"alert": "<strong>Faux !</strong>C'est Bruxelles",
 			"true": 0
 		}]
 	},
@@ -258,7 +258,7 @@
 		}]
 	},
 {
-		"question": "La capitale de Coré de Sud ?",
+		"question": "La capitale de Corée de Sud ?",
 		"description": null,
 		"answers": [{
 			"answer": "Busan",
@@ -277,7 +277,7 @@
 		}]
 	},
 {
-		"question": "La capitale de l'Abanie ?",
+		"question": "La capitale de l'Albanie ?",
 		"description": null,
 		"answers": [{
 			"answer": "Elbasan",

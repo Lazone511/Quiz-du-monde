@@ -23,7 +23,7 @@
 		}]
 	},
 	{
-		"question": "Quelle est la capitale de l'italie ?",
+		"question": "Quelle est la capitale de l'Italie ?",
 		"description": null,
 		"answers": [{
 			"answer": "Venise",
@@ -61,7 +61,7 @@
 		}]
 	},
 	{
-		"question": "Quelle est la capitale de la Russi ?",
+		"question": "Quelle est la capitale de la Russie ?",
 		"description": null,
 		"answers": [{
 			"answer": "Tambov",
@@ -166,11 +166,11 @@
 
 
 {
-		"question":  "Quelle est la capitale des Etat-Unis ?",
+		"question":  "Quelle est la capitale des Etats-Unis ?",
 		"description": null,
 		"answers": [{
 			"answer": "Ohio",
-			"alert": "<strong>Faux !</strong> La capitale du Liban est Beyrouth.",
+			"alert": "<strong>Faux !</strong> C'est  Washington",
 			"true": 0
 		},
 		{
@@ -202,7 +202,7 @@
 		"description": null,
 		"answers": [{
 			"answer": "Sinaloa",
-			"alert": "<strong>Faux !</strong> C'est Méxique ",
+			"alert": "<strong>Faux !</strong> C'est Mexico ",
 			"true": 0
 		},
 		{
@@ -212,7 +212,7 @@
 		},
 		{
 			"answer": "Monterrey",
-			"alert": "<strong>Faux !</strong> C'est Mexique ",
+			"alert": "<strong>Faux !</strong> C'est Mexico ",
 			"true": 0
 		}]
 	},
@@ -227,7 +227,7 @@
 
 
 {
-		"question": "Quelle est la capitale de l'Afrique de Sud ?",
+		"question": "Quelle est la capitale de l'Afrique du Sud ?",
 		"description": null,
 		"answers": [{
 			"answer": "Pretoria",
@@ -236,12 +236,12 @@
 		},
 		{
 			"answer": "Le Cap",
-			"alert": "<strong>Faux !</strong> C'est  L'Afrique de Sud",
+			"alert": "<strong>Faux !</strong> C'est Pretoria",
 			"true": 0
 		},
 		{
 			"answer": "Port Elizabeth",
-			"alert": "<strong>Faux !</strong> La capitale du Liban est Beyrouth.",
+			"alert": "<strong>Faux !</strong> C'est Pretoria",
 			"true": 0
 		}]
 	},
@@ -327,7 +327,7 @@
 		},
 		{
 			"answer": "Pereira",
-			"alert": "<strong>Faux !</strong> La capitale du Liban est Beyrouth.",
+			"alert": "<strong>Faux !</strong> C'est Bogota.",
 			"true": 0
 		}]
 	},
