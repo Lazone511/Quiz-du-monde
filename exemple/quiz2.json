@@ -1,0 +1,336 @@
+[{
+	"intro": {
+		"title": "Quiz de géographie",
+		"description": "Niveaux Compliquer"
+	},
+	"questions": [{
+		"question": "Quelle est la capitale de Suisse ?   ",
+		"description": null,
+		"answers": [{
+			"answer": "Berne",
+			"alert": "<strong>Correct !</strong>",
+			"true": 1
+		},
+		{
+			"answer": "Genève",
+			"alert": "<strong>Faux !</strong> c'est Berne",
+			"true": 0
+		},
+		{
+			"answer": "Zurich",
+			"alert": "<strong>Faux !</strong> c'est Berne",
+			"true": 0
+		}]
+	},
+	{
+		"question": "Quelle est la capitale de l'Egypte ?",
+		"description": null,
+		"answers": [{
+			"answer": "Alexandrie",
+			"alert": "<strong>Faux !</strong> C'est Le Caire",
+			"true": 0
+		},
+		{
+			"answer": "Le Caire",
+			"alert": "<strong>Correct !</strong>",
+			"true": 1
+		},
+		{
+			"answer": "Gizeh",
+			"alert": "<strong>Faux !</strong> C'est Le Caire",
+			"true": 0
+		}]
+	},
+	{
+		"question": "Quelle est la capitale de Arménie ?",
+		"description": null,
+		"answers": [{
+			"answer": "Erevan",
+			"alert": "<strong>Correct !</strong>",
+			"true": 1
+		},
+		{
+			"answer": "Gumri",
+			"alert": "<strong>Faux !</strong> C'est Erevan",
+			"true": 0
+		},
+		{
+			"answer": "Kapan",
+			"alert": "<strong>Faux !</strong> C'est Erevan",
+			"true": 0
+		}]
+	},
+	{
+		"question": "La capitale de l'Arabie-Saoudite ?",
+		"description": null,
+		"answers": [{
+			"answer": "Médine",
+			"alert": "<strong>Faux !</strong> C'est Ryad",
+			"true": 0
+		},
+		{
+			"answer": "Ryad",
+			"alert": "<strong>Correct !</strong>",
+			"true": 1
+		},
+		{
+			"answer": "Buraydah",
+			"alert": "<strong>Faux !</strong> C'est Ryad",
+			"true": 0
+		}]
+	},
+{
+		"question": "La capitale de l'Argentine  ?",
+		"description": null,
+		"answers": [{
+			"answer": "Sna Rafael",
+			"alert": "<strong>Faux !</strong> C'est Buenos Aires",
+			"true": 0
+		},
+		{
+			"answer": "Buenos Aires",
+			"alert": "<strong>Correct !</strong>",
+			"true": 1
+		},
+		{
+			"answer": "Formosa",
+			"alert": "<strong>Faux !</strong> C'est Buenos Aires",
+			"true": 0
+		}]
+	},
+
+
+
+
+
+
+
+{
+		"question": "La capitale du Canada ?",
+		"description": null,
+		"answers": [{
+			"answer": "Montréal  ",
+			"alert": "<strong>Faux !</strong> C'est Ottawa",
+			"true": 0
+		},
+		{
+			"answer": "Ottawa ",
+			"alert": "<strong>Correct !</strong>",
+			"true": 1
+		},
+		{
+			"answer": "Victoria",
+			"alert": "<strong>Faux !</strong> C'est Ottawa",
+			"true": 0
+		}]
+	},
+{
+		"question": "La capitale du Portugale ?",
+		"description": null,
+		"answers": [{
+			"answer": "Porto ",
+			"alert": "<strong>Faux !</strong> C'est Lisbonne",
+			"true": 0
+		},
+		{
+			"answer": "Lisbonne ",
+			"alert": "<strong>Correct !</strong>",
+			"true": 1
+		},
+		{
+			"answer": "Amadora",
+			"alert": "<strong>Faux !</strong> C'est Lisbonne ",
+			"true": 0
+		}]
+	},
+{
+		"question": "La capitale du Australie ?",
+		"description": null,
+		"answers": [{
+			"answer": "Sydney ",
+			"alert": "<strong>Faux !</strong> C'est Cambera",
+			"true": 0
+		},
+		{
+			"answer": "Cambera",
+			"alert": "<strong>Correct !</strong>",
+			"true": 1
+		},
+		{
+			"answer": "Melbourne ",
+			"alert": "<strong>Faux !</strong> C'est Cambera",
+			"true": 0
+		}]
+	},
+{
+		"question": "La capitale du Blegique ?",
+		"description": null,
+		"answers": [{
+			"answer": "Bruges ",
+			"alert": "<strong>Faux !</strong> C'est Bruxelle ",
+			"true": 0
+		},
+		{
+			"answer": "Bruxelles ",
+			"alert": "<strong>Correct !</strong>",
+			"true": 1
+		},
+		{
+			"answer": "Anvers",
+			"alert": "<strong>Faux !</strong>C'est Bruxelle",
+			"true": 0
+		}]
+	},
+{
+		"question": "La capitale du Ukraine?",
+		"description": null,
+		"answers": [{
+			"answer": "Kharkiv ",
+			"alert": "<strong>Faux !</strong> C'est Kiev",
+			"true": 0
+		},
+		{
+			"answer": "Kiev",
+			"alert": "<strong>Correct !</strong>",
+			"true": 1
+		},
+		{
+			"answer": "Odessa ",
+			"alert": "<strong>Faux !</strong> C'est Kiev",
+			"true": 0
+		}]
+	},
+{
+		"question": "La capitale de l’Emirats Arabe-Unis ?",
+		"description": null,
+		"answers": [{
+			"answer": "Dubaï ",
+			"alert": "<strong>Faux !</strong>C'est Abou Dhabi",
+			"true": 0
+		},
+		{
+			"answer": " Abou Dhabi",
+			"alert": "<strong>Correct !</strong>",
+			"true": 1
+		},
+		{
+			"answer": " Al Aïn",
+			"alert": "<strong>Faux !</strong> C'est Abou Dhabi",
+			"true": 0
+		}]
+	},
+{
+		"question": "La capitale de l'Inde  ?",
+		"description": null,
+		"answers": [{
+			"answer": "Bombay ",
+			"alert": "<strong>Faux !</strong> C'est New Delhi",
+			"true": 0
+		},
+		{
+			"answer": "New Delhi",
+			"alert": "<strong>Correct !</strong>",
+			"true": 1
+		},
+		{
+			"answer": "Delhi ",
+			"alert": "<strong>Faux !</strong>C'est New Delhi",
+			"true": 0
+		}]
+	},
+{
+		"question": "La capitale du Congo ?",
+		"description": null,
+		"answers": [{
+			"answer": "Pointe-Noire",
+			"alert": "<strong>Faux !</strong> C'est Brazzaville",
+			"true": 0
+		},
+		{
+			"answer": "Brazzaville",
+			"alert": "<strong>Correct !</strong>",
+			"true": 1
+		},
+		{
+			"answer": "Cabinda",
+			"alert": "<strong>Faux !</strong> C'est Brazzaville",
+			"true": 0
+		}]
+	},
+{
+		"question": "La capitale de Coré de Sud ?",
+		"description": null,
+		"answers": [{
+			"answer": "Busan",
+			"alert": "<strong>Faux !</strong> C'est Séoul",
+			"true": 0
+		},
+		{
+			"answer": "Séoul",
+			"alert": "<strong>Correct !</strong>",
+			"true": 1
+		},
+		{
+			"answer": "Incheon",
+			"alert": "<strong>Faux !</strong> C'est Séoul",
+			"true": 0
+		}]
+	},
+{
+		"question": "La capitale de l'Abanie ?",
+		"description": null,
+		"answers": [{
+			"answer": "Elbasan",
+			"alert": "<strong>Faux !</strong> C'est Tirana",
+			"true": 0
+		},
+		{
+			"answer": "Tirana",
+			"alert": "<strong>Correct !</strong>",
+			"true": 1
+		},
+		{
+			"answer": "Vlora",
+			"alert": "<strong>Faux !</strong> C'est Tirana",
+			"true": 0
+		}]
+	},
+{
+		"question": "La capitale de L'Indonésie ?",
+		"description": null,
+		"answers": [{
+			"answer": "Bintulu",
+			"alert": "<strong>Faux !</strong> C'est Jakarta",
+			"true": 0
+		},
+		{
+			"answer": "Jakarta",
+			"alert": "<strong>Correct !</strong>",
+			"true": 1
+		},
+		{
+			"answer": "Sibu",
+			"alert": "<strong>Faux !</strong> C'est Jakarta",
+			"true": 0
+		}]
+	},
+{
+		"question": "La capitale de l'Islande ?",
+		"description": null,
+		"answers": [{
+			"answer": "Akureyri",
+			"alert": "<strong>Faux !</strong> C'est Reykjavik",
+			"true": 0
+		},
+		{
+			"answer": "Reykjavik",
+			"alert": "<strong>Correct !</strong>",
+			"true": 1
+		},
+		{
+			"answer": "Arnarstapi",
+			"alert": "<strong>Faux !</strong> C'est Reykjavik",
+			"true": 0
+		}]
+	}]
+}]

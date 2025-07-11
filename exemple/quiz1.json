@@ -1,0 +1,420 @@
+[{
+	"intro": {
+		"title": "Quiz de géographie",
+		"description": "Niveaux Facile"
+	},
+	"questions": [{
+		"question": " Quelle est la capitale de la France ?   ",
+		"description": null,
+		"answers": [{
+			"answer": "Paris",
+			"alert": "<strong>Correct !</strong>",
+			"true": 1
+		},
+		{
+			"answer": "Lyon",
+			"alert": "<strong>Faux !</strong> C'est Paris.",
+			"true": 0
+		},
+		{
+			"answer": "Marseille",
+			"alert": "<strong>Faux !</strong> C'est Paris.",
+			"true": 0
+		}]
+	},
+	{
+		"question": "Quelle est la capitale de l'italie ?",
+		"description": null,
+		"answers": [{
+			"answer": "Venise",
+			"alert": "<strong>Faux !</strong>C'est Rome",
+			"true": 0
+		},
+		{
+			"answer": "Rome",
+			"alert": "<strong>Correct !</strong>",
+			"true": 1
+		},
+		{
+			"answer": "Milan",
+			"alert": "<strong>Faux !</strong> C'est Rome ",
+			"true": 0
+		}]
+	},
+	{
+		"question": "Quelle est la capitale de l'Espagne ?",
+		"description": null,
+		"answers": [{
+			"answer": "Madrid",
+			"alert": "<strong>Correct !</strong>",
+			"true": 1
+		},
+		{
+			"answer": "Séville",
+			"alert": "<strong>Faux !</strong> C'est Madrid",
+			"true": 0
+		},
+		{
+			"answer": "Barcelona",
+			"alert": "<strong>Faux !</strong> C'est Madrid",
+			"true": 0
+		}]
+	},
+	{
+		"question": "Quelle est la capitale de la Russi ?",
+		"description": null,
+		"answers": [{
+			"answer": "Tambov",
+			"alert": "<strong>Faux !</strong> C'est Moscou",
+			"true": 0
+		},
+		{
+			"answer": "Moscou",
+			"alert": "<strong>Correct !</strong>",
+			"true": 1
+		},
+		{
+			"answer": "Samara",
+			"alert": "<strong>Faux !</strong> C'est Moscou",
+			"true": 0
+		}]
+	},
+{
+		"question": "Quelle est la capitale de l'Algérie ?",
+		"description": null,
+		"answers": [{
+			"answer": "Reggan",
+			"alert": "<strong>Faux !</strong> C'est Alger",
+			"true": 0
+		},
+		{
+			"answer": "Alger",
+			"alert": "<strong>Correct !</strong>",
+			"true": 1
+		},
+		{
+			"answer": "Tindouf",
+			"alert": "<strong>Faux !</strong> C'est Alger",
+			"true": 0
+		}]
+	},
+{
+		"question": "Quelle est la capitale de la Chine ?",
+		"description": null,
+		"answers": [{
+			"answer": "Pékin",
+			"alert": "<strong>Correct !</strong>",
+			"true": 1
+		},
+		{
+			"answer": "Baoji",
+			"alert": "<strong>Faux !</strong> C'est Pékin .",
+			"true": 1
+		},
+		{
+			"answer": "Lanzhou",
+			"alert": "<strong>Faux !</strong> C'est Pékin .",
+			"true": 0
+		}]
+	},
+{
+		"question": "Quelle est la capitale de Maroc ?",
+		"description": null,
+		"answers": [{
+			"answer": "Fès",
+			"alert": "<strong>Faux !</strong> C'est Rabat",
+			"true": 0
+		},
+		{
+			"answer": "Agadir",
+			"alert": "<strong>Faux !</strong> C'est Rabat",
+			"true": 0
+		},
+		{
+			"answer": "Rabat",
+			"alert": "<strong>Correct !</strong>",
+			"true": 1
+		}]
+	},
+{
+		"question": "Quelle est la capitale du Brésil ?",
+		"description": null,
+		"answers": [{
+			"answer": "Pará ",
+			"alert": "<strong>Faux !</strong> C'est Brasília",
+			"true": 0
+		},
+		{
+			"answer": " Brasília",
+			"alert": "<strong>Correct !</strong>",
+			"true": 1
+		},
+		{
+			"answer": "São Paulo",
+			"alert": "<strong>Faux !</strong> C'est Brasília",
+			"true": 0
+		}]
+	},
+
+
+
+
+
+
+
+
+
+
+{
+		"question":  "Quelle est la capitale des Etat-Unis ?",
+		"description": null,
+		"answers": [{
+			"answer": "Ohio",
+			"alert": "<strong>Faux !</strong> La capitale du Liban est Beyrouth.",
+			"true": 0
+		},
+		{
+			"answer": "Dallas",
+			"alert": "<strong>Faux !</strong> C'est  Washington",
+			"true": 0
+		},
+		{
+			"answer": " Washington",
+			"alert": "<strong>Correct !</strong>",
+			"true": 1
+		}]
+	},
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+		"question": "Quelle est la capitale du Mexique ?",
+		"description": null,
+		"answers": [{
+			"answer": "Sinaloa",
+			"alert": "<strong>Faux !</strong> C'est Méxique ",
+			"true": 0
+		},
+		{
+			"answer": "Mexico",
+			"alert": "<strong>Correct !</strong>",
+			"true": 1
+		},
+		{
+			"answer": "Monterrey",
+			"alert": "<strong>Faux !</strong> C'est Mexique ",
+			"true": 0
+		}]
+	},
+
+
+
+
+
+
+
+
+
+
+{
+		"question": "Quelle est la capitale de l'Afrique de Sud ?",
+		"description": null,
+		"answers": [{
+			"answer": "Pretoria",
+			"alert": "<strong>Correct !</strong>",
+			"true": 1
+		},
+		{
+			"answer": "Le Cap",
+			"alert": "<strong>Faux !</strong> C'est  L'Afrique de Sud",
+			"true": 0
+		},
+		{
+			"answer": "Port Elizabeth",
+			"alert": "<strong>Faux !</strong> La capitale du Liban est Beyrouth.",
+			"true": 0
+		}]
+	},
+
+
+
+
+
+
+
+
+
+
+
+{
+		"question": "Quelle est la capitale de l'Allemagne ?",
+		"description": null,
+		"answers": [{
+			"answer": "Hambourg",
+			"alert": "<strong>Faux !</strong> C'est Berlin.",
+			"true": 0
+		},
+		{
+			"answer": "Berlin",
+			"alert": "<strong>Correct !</strong>",
+			"true": 1
+		},
+		{
+			"answer": "Munich",
+			"alert": "<strong>Faux !</strong> C'est Berlin.",
+			"true": 0
+		}]
+	},
+
+
+
+
+
+
+
+
+
+{
+		"question": "Quelle est la capitale du Japon ?",
+		"description": null,
+		"answers": [{
+			"answer": "Kyoto",
+			"alert": "<strong>Faux !</strong> C'est Tokyo",
+			"true": 0
+		},
+		{
+			"answer": "Nagasaki",
+			"alert": "<strong>Faux !</strong> C'est Tokyo",
+			"true": 0
+		},
+		{
+			"answer": "Tokyo",
+			"alert": "<strong>Correct !</strong>",
+			"true": 1
+		}]
+	},
+
+
+
+
+
+
+
+
+
+{
+		"question": "Quelle est la capitale de Colombie ?",
+		"description": null,
+		"answers": [{
+			"answer": "Bogota",
+			"alert": "<strong>Correct !</strong>",
+			"true": 1
+		},
+		{
+			"answer": "Cali",
+			"alert": "<strong>Faux !</strong> C'est Bogota",
+			"true": 0
+		},
+		{
+			"answer": "Pereira",
+			"alert": "<strong>Faux !</strong> La capitale du Liban est Beyrouth.",
+			"true": 0
+		}]
+	},
+
+
+
+
+
+
+
+{
+		"question": "Quelle est la capitale de la Turquie  ?",
+		"description": null,
+		"answers": [{
+			"answer": "Istanbul",
+			"alert": "<strong>Faux !</strong> C'est Ankara",
+			"true": 0
+		},
+		{
+			"answer": "Ankara",
+			"alert": "<strong>Correct !</strong>",
+			"true": 1
+		},
+		{
+			"answer": "Aksaray",
+			"alert": "<strong>Faux !</strong> C'est Ankara",
+			"true": 0
+		}]
+	},
+
+
+
+
+
+
+
+{
+		"question": "Quelle est la capitale du Pérou ?",
+		"description": null,
+		"answers": [{
+			"answer": "Cuzco",
+			"alert": "<strong>Faux !</strong> C'est Lima ",
+			"true": 0
+		},
+		{
+			"answer": "Trujillo",
+			"alert": "<strong>Faux !</strong> C'est Lima ",
+			"true": 0
+		},
+		{
+			"answer": "Lima",
+			"alert": "<strong>Correct !</strong>",
+			"true": 1
+		}]
+	},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+		"question": "Quelle est la capitale de la Tunisie ?",
+		"description": null,
+		"answers": [{
+			"answer": "Bizerte",
+			"alert": "<strong>Faux !</strong> C'est Tunis",
+			"true": 0
+		},
+		{
+			"answer": "Tunis",
+			"alert": "<strong>Correct !</strong>",
+			"true": 1
+		},
+		{
+			"answer": "Sousse",
+			"alert": "<strong>Faux !</strong> C'est Tunis",
+			"true": 0
+		}]
+	}]
+}]

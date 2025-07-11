@@ -1,0 +1,73 @@
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+ <!-- Favicon -->
+    <link rel="shortcut icon" href="asset/favicon/quiz-fa.jpg"  />
+<title>Quiz de Géo</title>
+<!-- meta tags -->
+<meta name="description" content="Quiz de Géo">
+<!-- stylesheets -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootswatch/4.6.2/flatly/bootstrap.min.css">
+<link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" type="text/css" href="../dist/jquery.quiz.css">
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<!-- main -->
+<section class="main">
+  <div class="container">
+    <div id="quiz_container"></div>
+  </div>
+</section>
+<!-- scripts -->
+<script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
+<script src="../dist/jquery.quiz.js"></script>
+<script src="../dist/messages_fr.js"></script>
+<script>
+$(document).ready(function(){
+
+	var pathJson = window.location.pathname.replace(/\/[^\/]+?\.[^\/]+?$/, '/');
+
+	$('#quiz_container').quiz({
+		quizJson: pathJson + "quiz1.json",
+		onResults: function(good, total){
+
+			var perc = good / total;
+
+			var alert = $('<div class="alert"></div>')
+				.prependTo($(this).find('#quiz-body'));
+
+			if(perc == 0){
+
+				alert.addClass('alert-danger')
+					.html('Tout est faux ! Vous n\'avez pas répondu correctement à une seule question. Allez donc faire du tricot !');
+			} else if(perc > 0 && perc <= 0.25){
+
+				alert.addClass('alert-danger')
+					.html('Mauvais résultat ! Vous n\'avez eu que ' + good + ' bonnes réponses sur ' + total + '. Veuillez réessayer.');
+			} else if(perc > 0.25 && perc <= 0.5){
+
+				alert.addClass('alert-danger')
+					.html('À peine suffisant ! Vous avez eu ' + good + ' bonnes réponses sur ' + total + '. Vous pouvez faire mieux.');
+			} else if(perc > 0.5 && perc <= 0.75){
+
+				alert.addClass('alert-success')
+					.html('Résultat décent ! Vous avez eu ' + good + ' bonnes réponses sur ' + total + '. Veuillez réessayer.');
+			} else if(perc > 0.75 && perc < 1){
+
+				alert.addClass('alert-success')
+					.html('Bon résultat ! Vous avez eu ' + good + ' bonnes réponses sur ' + total + '. Je pense que nous y sommes presque.');
+			} else if(perc == 1){
+
+				alert.addClass('alert-success')
+					.html('Félicitations, vous avez répondu correctement à toutes les questions !');
+			}
+		}
+	});
+});
+</script>
+</body>
+</html>
